@@ -2,7 +2,7 @@
 
 Code accompanying:
 
-> [Authors] ([year]). Economic evaluation of site-specific weed management under imperfect sensing: a multi-year bio-economic simulation study. *[Journal]*. https://doi.org/[DOI]
+> Economic evaluation of site-specific weed management under imperfect sensing: a multi-year bio-economic simulation study.
 
 This repository contains the four scripts used to produce every result in the paper: grid construction and weed-count aggregation, the bio-economic simulation, the analysis of the simulation output, and the marginal shadow cost figure.
 
